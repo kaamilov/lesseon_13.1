@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lesseon_13.1/static/css/main.0694bcf6.chunk.css",
+    "main.js": "/lesseon_13.1/static/js/main.8b0641e5.chunk.js",
+    "main.js.map": "/lesseon_13.1/static/js/main.8b0641e5.chunk.js.map",
+    "runtime-main.js": "/lesseon_13.1/static/js/runtime-main.25bd10c1.js",
+    "runtime-main.js.map": "/lesseon_13.1/static/js/runtime-main.25bd10c1.js.map",
+    "static/js/2.abf10151.chunk.js": "/lesseon_13.1/static/js/2.abf10151.chunk.js",
+    "static/js/2.abf10151.chunk.js.map": "/lesseon_13.1/static/js/2.abf10151.chunk.js.map",
+    "index.html": "/lesseon_13.1/index.html",
+    "static/css/main.0694bcf6.chunk.css.map": "/lesseon_13.1/static/css/main.0694bcf6.chunk.css.map",
+    "static/js/2.abf10151.chunk.js.LICENSE.txt": "/lesseon_13.1/static/js/2.abf10151.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/lesseon_13.1/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25bd10c1.js",
+    "static/js/2.abf10151.chunk.js",
+    "static/css/main.0694bcf6.chunk.css",
+    "static/js/main.8b0641e5.chunk.js"
+  ]
+}
